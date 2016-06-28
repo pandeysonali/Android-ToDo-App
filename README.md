@@ -4,7 +4,7 @@
 
 Submitted by: **Sonali Pandey**
 
-Time spent: **20** hours spent in total
+Time spent: **18** hours spent in total
 
 ## User Stories
 
