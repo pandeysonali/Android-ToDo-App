@@ -29,6 +29,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
+Getting accustomed with the Activity lifecycle i.e OnCreate, OnResume, OnPause etc. drive the activity flow.
 
 
 
