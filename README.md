@@ -4,7 +4,7 @@ Codepath bootcamp prework
 
 Submitted by: Sonali Pandey
 
-Features:
+#Features
 
 	User can add tasks to the list.
 	
@@ -17,5 +17,9 @@ Features:
 	Items are in SQLLite (Using Cupboard).
 
 
-App Walkthrough:
+#App Walkthrough
+
+![Video Walkthrough](ToDo demo.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
