@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Do!</string>
+    <string name="btnAdd">Add Task</string>
+    <string name="btnSave">Save</string>
+    <string name="ltEdit">Edit Item Here</string>
+    <string name="btnDel">Delete</string>
+</resources>
