@@ -18,7 +18,7 @@ import nl.qbusict.cupboard.QueryResultIterable;
 import static nl.qbusict.cupboard.CupboardFactory.cupboard;
 
 
-public class ToDo extends AppCompatActivity {
+public class ToDoActivity extends AppCompatActivity {
 
     private ArrayList<String> items;
     private ArrayList<ToDoItem> itemlist;
@@ -43,9 +43,9 @@ public class ToDo extends AppCompatActivity {
         lvItems.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                //Toast.makeText(ToDo.this, "Item position clicked: " + items.get(position), Toast.LENGTH_SHORT).show();
+                //Toast.makeText(ToDoActivity.this, "Item position clicked: " + items.get(position), Toast.LENGTH_SHORT).show();
                 //Send data to Edit activity
-                Intent edit_activity = new Intent(ToDo.this, EditItemActivity.class);
+                Intent edit_activity = new Intent(ToDoActivity.this, EditItemActivity.class);
                 edit_activity.putExtra("position", position);
                 edit_activity.putExtra("text", items.get(position));
                 edit_activity.putExtra("id", itemlist.get(position).getId());
