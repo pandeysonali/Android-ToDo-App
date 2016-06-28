@@ -28,9 +28,8 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-As this is my first android app,it took me time to 
--Get accustomed with the Activity lifecycle i.e OnCreate, OnResume, OnPause etc. drive the activity flow.
--
+
+
 
 
 ## License
